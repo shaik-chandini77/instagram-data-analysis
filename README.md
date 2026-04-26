@@ -69,19 +69,8 @@ This project focuses on analyzing Instagram-style user data using Python. It ext
 ---
 
 ## ▶️ How to Run
-```bash id="runfix99"
+
+```bash
 pip install -r requirements.txt
 python main.py
----
 
-## ⭐ Project Outcome
-- Data preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Data visualization  
-- Machine learning clustering  
-- Real-world dataset handling  
-
----
-
-## 👩‍💻 Author
-**Shaik Chandini**  
