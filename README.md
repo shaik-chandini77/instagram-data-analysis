@@ -6,7 +6,6 @@ This project focuses on analyzing Instagram-style user data using Python. It ext
 ---
 
 ## 🎯 Objective
-The main goal of this project is to:
 - Convert unstructured Instagram-like data into structured format  
 - Analyze user engagement metrics  
 - Identify top influencers in the dataset  
@@ -35,12 +34,12 @@ The main goal of this project is to:
 ---
 
 ## ⚙️ Project Workflow
-1. Load raw Instagram-like dataset  
-2. Clean and structure the data  
-3. Extract user attributes  
-4. Perform analysis on posts, followers, and following  
-5. Generate visualizations  
-6. Apply KMeans clustering on users  
+- Load raw Instagram-like dataset  
+- Clean and structure the data  
+- Extract user attributes  
+- Perform analysis on posts, followers, and following  
+- Generate visualizations  
+- Apply KMeans clustering on users  
 
 ---
 
@@ -70,10 +69,19 @@ The main goal of this project is to:
 ---
 
 ## ▶️ How to Run
-
-```bash id="runfinal1"
-# Install dependencies
+```bash id="runfix99"
 pip install -r requirements.txt
-
-# Run project
 python main.py
+---
+
+## ⭐ Project Outcome
+- Data preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data visualization  
+- Machine learning clustering  
+- Real-world dataset handling  
+
+---
+
+## 👩‍💻 Author
+**Shaik Chandini**  
