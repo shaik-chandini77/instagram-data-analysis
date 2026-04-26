@@ -74,3 +74,7 @@ This project focuses on analyzing Instagram-style user data using Python. It ext
 pip install -r requirements.txt
 python main.py
 
+
+
+ 👩‍💻 Author
+Shaik Chandini
