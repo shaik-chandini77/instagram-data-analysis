@@ -1,0 +1,79 @@
+user_one
+120 posts
+1.2K followers
+300 following
+John Doe
+Digital Creator
+Love coding and AI
+
+user_two
+450 posts
+5K followers
+1.1K following
+Jane Smith
+Blogger
+Travel | Food | Lifestyle
+
+tech_guru
+980 posts
+120K followers
+500 following
+Rahul Tech
+Tech Enthusiast
+Sharing latest tech updates
+
+startup_world
+1500 posts
+1.5M followers
+200 following
+Startup Hub
+Business Service
+Startups | Funding | Growth
+
+fitness_king
+700 posts
+80K followers
+600 following
+Aman Fitness
+Fitness Trainer
+Workout | Gym | Health
+
+foodie_life
+300 posts
+25K followers
+900 following
+Food Lover
+Food Blogger
+Exploring street food
+
+artist_zone
+410 posts
+60K followers
+450 following
+Creative Mind
+Artist
+Digital art and sketches
+
+travel_diary
+520 posts
+95K followers
+700 following
+Wanderer
+Travel Blogger
+Exploring the world
+
+edu_platform
+200 posts
+40K followers
+150 following
+Edu Tech
+Education
+Learn coding online
+
+music_vibes
+670 posts
+150K followers
+800 following
+DJ Beats
+Musician
+Music is life

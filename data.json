@@ -1,0 +1,92 @@
+[
+    {
+        "username": "user_one",
+        "no_of_posts": 120,
+        "no_of_followers": 1200,
+        "no_of_following": 300,
+        "name": "John Doe",
+        "type_of_page": "Digital Creator",
+        "bio": "Love coding and AI"
+    },
+    {
+        "username": "user_two",
+        "no_of_posts": 450,
+        "no_of_followers": 5000,
+        "no_of_following": 1100,
+        "name": "Jane Smith",
+        "type_of_page": "Blogger",
+        "bio": "Travel | Food | Lifestyle"
+    },
+    {
+        "username": "tech_guru",
+        "no_of_posts": 980,
+        "no_of_followers": 120000,
+        "no_of_following": 500,
+        "name": "Rahul Tech",
+        "type_of_page": "Tech Enthusiast",
+        "bio": "Sharing latest tech updates"
+    },
+    {
+        "username": "startup_world",
+        "no_of_posts": 1500,
+        "no_of_followers": 1500000,
+        "no_of_following": 200,
+        "name": "Startup Hub",
+        "type_of_page": "Business Service",
+        "bio": "Startups | Funding | Growth"
+    },
+    {
+        "username": "fitness_king",
+        "no_of_posts": 700,
+        "no_of_followers": 80000,
+        "no_of_following": 600,
+        "name": "Aman Fitness",
+        "type_of_page": "Fitness Trainer",
+        "bio": "Workout | Gym | Health"
+    },
+    {
+        "username": "foodie_life",
+        "no_of_posts": 300,
+        "no_of_followers": 25000,
+        "no_of_following": 900,
+        "name": "Food Lover",
+        "type_of_page": "Food Blogger",
+        "bio": "Exploring street food"
+    },
+    {
+        "username": "artist_zone",
+        "no_of_posts": 410,
+        "no_of_followers": 60000,
+        "no_of_following": 450,
+        "name": "Creative Mind",
+        "type_of_page": "Artist",
+        "bio": "Digital art and sketches"
+    },
+    {
+        "username": "travel_diary",
+        "no_of_posts": 520,
+        "no_of_followers": 95000,
+        "no_of_following": 700,
+        "name": "Wanderer",
+        "type_of_page": "Travel Blogger",
+        "bio": "Exploring the world"
+    },
+    {
+        "username": "edu_platform",
+        "no_of_posts": 200,
+        "no_of_followers": 40000,
+        "no_of_following": 150,
+        "name": "Edu Tech",
+        "type_of_page": "Education",
+        "bio": "Learn coding online"
+    },
+    {
+        "username": "music_vibes",
+        "no_of_posts": 670,
+        "no_of_followers": 150000,
+        "no_of_following": 800,
+        "name": "DJ Beats",
+        "type_of_page": "Musician",
+        "bio": "Music is life"
+    }
+]
